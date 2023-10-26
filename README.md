@@ -1,4 +1,4 @@
-# Gradient-based-spike-detection-and-clustering-woth-Transformer-Autoencoder
+# Gradient-based-spike-detection-and-clustering-with-Transformer-Autoencoder
 "Gradient-based spike detection and clustering with a Transformer Autoencoder" is an advanced method for detecting and categorizing neuronal spikes in neural data. This technique combines elements of gradient-based detection, autoencoders, and the Transformer architecture. Here's how this approach works:
 
 Gradient-Based Spike Detection:
